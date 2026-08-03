@@ -63,7 +63,7 @@ This is the fastest path and is what we'll use during live sessions. Each notebo
 If you'd rather have the entire repository (all module guides, solutions docs, and data files, not just one notebook at a time) available in one place:
 
 ```bash
-git clone https://github.com/<org>/<repo-name>.git
+git clone https://github.com/gregworks/agentic-ops-and-rag.git
 ```
 
 Then, inside a Colab notebook, either:
@@ -71,8 +71,8 @@ Then, inside a Colab notebook, either:
 - **Clone directly inside the Colab runtime itself**, which needs no local git installation at all:
 
 ```
-!git clone https://github.com/<org>/<repo-name>.git
-%cd <repo-name>/notebooks
+!git clone https://github.com/gregworks/agentic-ops-and-rag.git
+%cd agentic-ops-and-rag/notebooks
 ```
 
 Cloning inside the Colab runtime is often the more convenient option for the Module 4 and Module 5 notebooks specifically, since it gives them direct access to the real `/data` files via the relative path they already check for first, rather than falling back to the embedded copy.
