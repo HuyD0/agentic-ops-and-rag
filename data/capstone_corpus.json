@@ -1,0 +1,1845 @@
+{
+ "knowledge_base": [
+  {
+   "doc_id": "kb_001",
+   "text": "To reset your Acme account password, go to Settings > Security > Reset Password and follow the emailed link. The link expires after 30 minutes."
+  },
+  {
+   "doc_id": "kb_002",
+   "text": "VPN error 691 indicates an authentication failure. Confirm your username and password are correct and that your account is not locked before contacting IT."
+  },
+  {
+   "doc_id": "kb_003",
+   "text": "Employees may expense client dinners up to $75 per person with an itemized receipt and the client's name and company noted on the expense report."
+  },
+  {
+   "doc_id": "kb_004",
+   "text": "2019 PTO Policy: Full-time employees accrue 15 days of paid time off per year, credited monthly."
+  },
+  {
+   "doc_id": "kb_005",
+   "text": "2024 PTO Policy Addendum (supersedes the 2019 policy): Full-time employees now receive unlimited PTO, subject to manager approval and a minimum of 10 days taken per year."
+  },
+  {
+   "doc_id": "kb_006",
+   "text": "The remote work stipend of $50/month for home internet does not apply to employees on the Contractor or Intern employment tracks."
+  },
+  {
+   "doc_id": "kb_007",
+   "text": "Benefits enrollment opens each year in the first two weeks of November. Changes take effect on January 1st of the following year."
+  },
+  {
+   "doc_id": "kb_008",
+   "text": "If your office printer shows an offline error, check that it is connected to the 'Acme-Print' network and restart the print spooler service."
+  },
+  {
+   "doc_id": "kb_009",
+   "text": "Guests can connect to the 'Acme-Guest' wifi network using the daily password posted at the front desk; it does not require a company account."
+  },
+  {
+   "doc_id": "kb_010",
+   "text": "Expense report code EXP-114 is used for software subscription reimbursements under $50/month that do not require manager pre-approval."
+  },
+  {
+   "doc_id": "kb_011",
+   "text": "Security incidents, including suspected phishing emails or lost devices, must be reported to security@acme.example within 1 hour of discovery."
+  },
+  {
+   "doc_id": "kb_012",
+   "text": "Customer data is retained for 7 years after account closure to meet financial audit requirements, then permanently deleted."
+  },
+  {
+   "doc_id": "kb_013",
+   "text": "Parental leave provides 16 weeks of fully paid leave for the primary caregiver and 6 weeks for the secondary caregiver, available to all full-time employees."
+  },
+  {
+   "doc_id": "kb_014",
+   "text": "Employee referral bonuses are $2,000 for standard roles and $4,000 for senior engineering roles, paid out after the new hire completes 90 days."
+  },
+  {
+   "doc_id": "kb_015",
+   "text": "Company laptops are eligible for replacement every 3 years, or sooner if hardware fails and cannot be repaired by IT within 5 business days."
+  },
+  {
+   "doc_id": "kb_016",
+   "text": "Home office equipment reimbursement covers up to $300 one time for a monitor, chair, or keyboard, submitted through expense code EXP-220."
+  },
+  {
+   "doc_id": "kb_017",
+   "text": "Slow application performance is often caused by too many browser tabs or an outdated client version; check for updates under Help > About."
+  },
+  {
+   "doc_id": "kb_018",
+   "text": "The office building requires badge access after 7pm on weekdays and at all times on weekends; lost badges should be reported to facilities immediately."
+  },
+  {
+   "doc_id": "noise_0000",
+   "text": "Cyberdyne's Operations department updated the overtime approval procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0001",
+   "text": "For Wonka Industries employees, parking permits is managed by the Operations team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0002",
+   "text": "For Wonka Industries employees, cafeteria menu rotation is managed by the Sales team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0003",
+   "text": "For Initech employees, office supply requests is managed by the Sales team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0004",
+   "text": "All Initech contractors should refer to the Operations team for questions about vacation scheduling."
+  },
+  {
+   "doc_id": "noise_0005",
+   "text": "For Soylent Corp employees, cafeteria menu rotation is managed by the Sales team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0006",
+   "text": "Aperture Labs Finance policy: mailroom procedures requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0007",
+   "text": "For Globex employees, parking permits is managed by the Finance team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0008",
+   "text": "The Aperture Labs handbook states that overtime approval follows regional guidelines set by Finance."
+  },
+  {
+   "doc_id": "noise_0009",
+   "text": "All Cyberdyne contractors should refer to the Operations team for questions about parking permits."
+  },
+  {
+   "doc_id": "noise_0010",
+   "text": "Stark Industries's Facilities department updated the office supply requests procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0011",
+   "text": "Globex's Facilities department updated the badge access procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0012",
+   "text": "Wayne Enterprises Sales policy: recycling program requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0013",
+   "text": "All Wayne Enterprises contractors should refer to the Marketing team for questions about onboarding checklist."
+  },
+  {
+   "doc_id": "noise_0014",
+   "text": "All Wayne Enterprises contractors should refer to the Finance team for questions about badge access."
+  },
+  {
+   "doc_id": "noise_0015",
+   "text": "The Initech handbook states that software licensing follows regional guidelines set by Sales."
+  },
+  {
+   "doc_id": "noise_0016",
+   "text": "Soylent Corp Finance policy: expense reimbursement requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0017",
+   "text": "Stark Industries's Legal department updated the vacation scheduling procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0018",
+   "text": "Soylent Corp's Facilities department updated the internal transfer process procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0019",
+   "text": "The Initech handbook states that parking permits follows regional guidelines set by Operations."
+  },
+  {
+   "doc_id": "noise_0020",
+   "text": "The Hooli handbook states that office supply requests follows regional guidelines set by Finance."
+  },
+  {
+   "doc_id": "noise_0021",
+   "text": "For Globex employees, software licensing is managed by the Sales team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0022",
+   "text": "Stark Industries Facilities policy: software licensing requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0023",
+   "text": "For Globex employees, company holiday calendar is managed by the Sales team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0024",
+   "text": "All Wonka Industries contractors should refer to the Legal team for questions about overtime approval."
+  },
+  {
+   "doc_id": "noise_0025",
+   "text": "Stark Industries's Facilities department updated the conference room booking procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0026",
+   "text": "Soylent Corp's Finance department updated the internal transfer process procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0027",
+   "text": "All Stark Industries contractors should refer to the Finance team for questions about performance review cycle."
+  },
+  {
+   "doc_id": "noise_0028",
+   "text": "For Wayne Enterprises employees, parking permits is managed by the Finance team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0029",
+   "text": "Soylent Corp Operations policy: gym membership discount requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0030",
+   "text": "Globex's Legal department updated the parking permits procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0031",
+   "text": "The Wayne Enterprises handbook states that cafeteria menu rotation follows regional guidelines set by Finance."
+  },
+  {
+   "doc_id": "noise_0032",
+   "text": "Wayne Enterprises Sales policy: badge access requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0033",
+   "text": "For Initech employees, gym membership discount is managed by the Legal team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0034",
+   "text": "The Globex handbook states that equipment loan program follows regional guidelines set by Operations."
+  },
+  {
+   "doc_id": "noise_0035",
+   "text": "All Aperture Labs contractors should refer to the Sales team for questions about conference room booking."
+  },
+  {
+   "doc_id": "noise_0036",
+   "text": "Cyberdyne's Operations department updated the conference room booking procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0037",
+   "text": "The Umbrella handbook states that conference room booking follows regional guidelines set by Facilities."
+  },
+  {
+   "doc_id": "noise_0038",
+   "text": "For Stark Industries employees, onboarding checklist is managed by the Operations team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0039",
+   "text": "For Umbrella employees, recycling program is managed by the Facilities team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0040",
+   "text": "Soylent Corp Sales policy: cafeteria menu rotation requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0041",
+   "text": "Soylent Corp Finance policy: software licensing requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0042",
+   "text": "For Globex employees, performance review cycle is managed by the Operations team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0043",
+   "text": "All Soylent Corp contractors should refer to the Marketing team for questions about shift scheduling."
+  },
+  {
+   "doc_id": "noise_0044",
+   "text": "For Cyberdyne employees, mailroom procedures is managed by the Marketing team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0045",
+   "text": "Initech's Legal department updated the onboarding checklist procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0046",
+   "text": "All Wonka Industries contractors should refer to the Facilities team for questions about cafeteria menu rotation."
+  },
+  {
+   "doc_id": "noise_0047",
+   "text": "For Initech employees, parking permits is managed by the Marketing team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0048",
+   "text": "Globex's Finance department updated the performance review cycle procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0049",
+   "text": "Cyberdyne Legal policy: vacation scheduling requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0050",
+   "text": "All Umbrella contractors should refer to the Marketing team for questions about equipment loan program."
+  },
+  {
+   "doc_id": "noise_0051",
+   "text": "The Aperture Labs handbook states that badge access follows regional guidelines set by Legal."
+  },
+  {
+   "doc_id": "noise_0052",
+   "text": "All Umbrella contractors should refer to the Sales team for questions about visitor registration."
+  },
+  {
+   "doc_id": "noise_0053",
+   "text": "Aperture Labs Legal policy: gym membership discount requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0054",
+   "text": "The Globex handbook states that equipment loan program follows regional guidelines set by Sales."
+  },
+  {
+   "doc_id": "noise_0055",
+   "text": "Globex Finance policy: cafeteria menu rotation requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0056",
+   "text": "The Cyberdyne handbook states that office supply requests follows regional guidelines set by Finance."
+  },
+  {
+   "doc_id": "noise_0057",
+   "text": "Umbrella's Finance department updated the badge access procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0058",
+   "text": "For Wonka Industries employees, vacation scheduling is managed by the Marketing team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0059",
+   "text": "Hooli's Marketing department updated the badge access procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0060",
+   "text": "Initech's Sales department updated the expense reimbursement procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0061",
+   "text": "Aperture Labs's Finance department updated the cafeteria menu rotation procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0062",
+   "text": "All Soylent Corp contractors should refer to the Operations team for questions about expense reimbursement."
+  },
+  {
+   "doc_id": "noise_0063",
+   "text": "Initech Finance policy: badge access requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0064",
+   "text": "Wayne Enterprises's Sales department updated the visitor registration procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0065",
+   "text": "Aperture Labs's Sales department updated the overtime approval procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0066",
+   "text": "All Wonka Industries contractors should refer to the Finance team for questions about mailroom procedures."
+  },
+  {
+   "doc_id": "noise_0067",
+   "text": "Globex Marketing policy: cafeteria menu rotation requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0068",
+   "text": "Cyberdyne Finance policy: onboarding checklist requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0069",
+   "text": "The Cyberdyne handbook states that company holiday calendar follows regional guidelines set by Operations."
+  },
+  {
+   "doc_id": "noise_0070",
+   "text": "For Globex employees, office supply requests is managed by the Marketing team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0071",
+   "text": "For Aperture Labs employees, mailroom procedures is managed by the Legal team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0072",
+   "text": "Hooli's Facilities department updated the overtime approval procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0073",
+   "text": "The Stark Industries handbook states that internal transfer process follows regional guidelines set by Marketing."
+  },
+  {
+   "doc_id": "noise_0074",
+   "text": "For Stark Industries employees, shift scheduling is managed by the Facilities team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0075",
+   "text": "All Stark Industries contractors should refer to the Sales team for questions about onboarding checklist."
+  },
+  {
+   "doc_id": "noise_0076",
+   "text": "For Hooli employees, conference room booking is managed by the Legal team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0077",
+   "text": "Cyberdyne Marketing policy: vacation scheduling requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0078",
+   "text": "Wayne Enterprises's Legal department updated the software licensing procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0079",
+   "text": "Cyberdyne's Marketing department updated the parking permits procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0080",
+   "text": "Soylent Corp's Facilities department updated the mailroom procedures procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0081",
+   "text": "Hooli's Facilities department updated the cafeteria menu rotation procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0082",
+   "text": "The Hooli handbook states that vacation scheduling follows regional guidelines set by Finance."
+  },
+  {
+   "doc_id": "noise_0083",
+   "text": "All Aperture Labs contractors should refer to the Finance team for questions about performance review cycle."
+  },
+  {
+   "doc_id": "noise_0084",
+   "text": "Hooli Marketing policy: gym membership discount requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0085",
+   "text": "For Umbrella employees, overtime approval is managed by the Sales team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0086",
+   "text": "For Globex employees, onboarding checklist is managed by the Marketing team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0087",
+   "text": "Globex's Facilities department updated the software licensing procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0088",
+   "text": "The Initech handbook states that recycling program follows regional guidelines set by Facilities."
+  },
+  {
+   "doc_id": "noise_0089",
+   "text": "For Initech employees, parking permits is managed by the Facilities team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0090",
+   "text": "Cyberdyne Marketing policy: travel policy requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0091",
+   "text": "For Cyberdyne employees, vacation scheduling is managed by the Operations team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0092",
+   "text": "All Stark Industries contractors should refer to the Marketing team for questions about equipment loan program."
+  },
+  {
+   "doc_id": "noise_0093",
+   "text": "For Wonka Industries employees, cafeteria menu rotation is managed by the Operations team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0094",
+   "text": "Soylent Corp Facilities policy: onboarding checklist requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0095",
+   "text": "For Soylent Corp employees, internal transfer process is managed by the Facilities team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0096",
+   "text": "Cyberdyne Sales policy: parking permits requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0097",
+   "text": "All Soylent Corp contractors should refer to the Operations team for questions about gym membership discount."
+  },
+  {
+   "doc_id": "noise_0098",
+   "text": "For Hooli employees, visitor registration is managed by the Sales team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0099",
+   "text": "For Initech employees, software licensing is managed by the Facilities team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0100",
+   "text": "The Stark Industries handbook states that badge access follows regional guidelines set by Sales."
+  },
+  {
+   "doc_id": "noise_0101",
+   "text": "Wonka Industries Marketing policy: performance review cycle requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0102",
+   "text": "Hooli Operations policy: badge access requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0103",
+   "text": "Cyberdyne's Marketing department updated the recycling program procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0104",
+   "text": "For Wayne Enterprises employees, expense reimbursement is managed by the Sales team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0105",
+   "text": "For Initech employees, vacation scheduling is managed by the Sales team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0106",
+   "text": "Wonka Industries's Marketing department updated the conference room booking procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0107",
+   "text": "Umbrella's Operations department updated the mailroom procedures procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0108",
+   "text": "For Cyberdyne employees, badge access is managed by the Operations team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0109",
+   "text": "The Cyberdyne handbook states that recycling program follows regional guidelines set by Operations."
+  },
+  {
+   "doc_id": "noise_0110",
+   "text": "All Wonka Industries contractors should refer to the Facilities team for questions about travel policy."
+  },
+  {
+   "doc_id": "noise_0111",
+   "text": "The Wonka Industries handbook states that performance review cycle follows regional guidelines set by Operations."
+  },
+  {
+   "doc_id": "noise_0112",
+   "text": "The Soylent Corp handbook states that parking permits follows regional guidelines set by Operations."
+  },
+  {
+   "doc_id": "noise_0113",
+   "text": "The Umbrella handbook states that mailroom procedures follows regional guidelines set by Operations."
+  },
+  {
+   "doc_id": "noise_0114",
+   "text": "Aperture Labs's Sales department updated the parking permits procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0115",
+   "text": "Wonka Industries Finance policy: mailroom procedures requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0116",
+   "text": "All Aperture Labs contractors should refer to the Sales team for questions about expense reimbursement."
+  },
+  {
+   "doc_id": "noise_0117",
+   "text": "All Globex contractors should refer to the Operations team for questions about internal transfer process."
+  },
+  {
+   "doc_id": "noise_0118",
+   "text": "Aperture Labs Finance policy: company holiday calendar requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0119",
+   "text": "Umbrella's Finance department updated the recycling program procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0120",
+   "text": "For Soylent Corp employees, performance review cycle is managed by the Sales team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0121",
+   "text": "The Cyberdyne handbook states that conference room booking follows regional guidelines set by Sales."
+  },
+  {
+   "doc_id": "noise_0122",
+   "text": "The Soylent Corp handbook states that mailroom procedures follows regional guidelines set by Sales."
+  },
+  {
+   "doc_id": "noise_0123",
+   "text": "All Initech contractors should refer to the Legal team for questions about shift scheduling."
+  },
+  {
+   "doc_id": "noise_0124",
+   "text": "Globex Marketing policy: conference room booking requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0125",
+   "text": "For Globex employees, conference room booking is managed by the Legal team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0126",
+   "text": "The Globex handbook states that office supply requests follows regional guidelines set by Facilities."
+  },
+  {
+   "doc_id": "noise_0127",
+   "text": "Hooli's Legal department updated the cafeteria menu rotation procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0128",
+   "text": "Initech Sales policy: gym membership discount requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0129",
+   "text": "For Wonka Industries employees, performance review cycle is managed by the Operations team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0130",
+   "text": "Wonka Industries's Sales department updated the expense reimbursement procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0131",
+   "text": "For Soylent Corp employees, cafeteria menu rotation is managed by the Operations team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0132",
+   "text": "For Wonka Industries employees, recycling program is managed by the Legal team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0133",
+   "text": "All Wonka Industries contractors should refer to the Legal team for questions about recycling program."
+  },
+  {
+   "doc_id": "noise_0134",
+   "text": "The Aperture Labs handbook states that onboarding checklist follows regional guidelines set by Legal."
+  },
+  {
+   "doc_id": "noise_0135",
+   "text": "The Umbrella handbook states that cafeteria menu rotation follows regional guidelines set by Marketing."
+  },
+  {
+   "doc_id": "noise_0136",
+   "text": "Stark Industries Legal policy: parking permits requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0137",
+   "text": "Umbrella Legal policy: conference room booking requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0138",
+   "text": "Wayne Enterprises's Sales department updated the software licensing procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0139",
+   "text": "For Soylent Corp employees, conference room booking is managed by the Operations team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0140",
+   "text": "Soylent Corp Facilities policy: expense reimbursement requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0141",
+   "text": "The Stark Industries handbook states that equipment loan program follows regional guidelines set by Operations."
+  },
+  {
+   "doc_id": "noise_0142",
+   "text": "The Initech handbook states that mailroom procedures follows regional guidelines set by Facilities."
+  },
+  {
+   "doc_id": "noise_0143",
+   "text": "Wonka Industries Facilities policy: parking permits requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0144",
+   "text": "Cyberdyne Finance policy: expense reimbursement requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0145",
+   "text": "All Wonka Industries contractors should refer to the Operations team for questions about mailroom procedures."
+  },
+  {
+   "doc_id": "noise_0146",
+   "text": "For Cyberdyne employees, parking permits is managed by the Legal team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0147",
+   "text": "For Initech employees, travel policy is managed by the Legal team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0148",
+   "text": "All Wayne Enterprises contractors should refer to the Facilities team for questions about software licensing."
+  },
+  {
+   "doc_id": "noise_0149",
+   "text": "Globex Legal policy: overtime approval requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0150",
+   "text": "Initech's Marketing department updated the internal transfer process procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0151",
+   "text": "Soylent Corp's Operations department updated the equipment loan program procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0152",
+   "text": "Stark Industries Operations policy: equipment loan program requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0153",
+   "text": "Globex's Legal department updated the travel policy procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0154",
+   "text": "Cyberdyne's Marketing department updated the equipment loan program procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0155",
+   "text": "Stark Industries Operations policy: travel policy requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0156",
+   "text": "Wonka Industries Finance policy: visitor registration requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0157",
+   "text": "For Soylent Corp employees, cafeteria menu rotation is managed by the Operations team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0158",
+   "text": "The Wonka Industries handbook states that visitor registration follows regional guidelines set by Operations."
+  },
+  {
+   "doc_id": "noise_0159",
+   "text": "Wayne Enterprises's Finance department updated the travel policy procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0160",
+   "text": "The Umbrella handbook states that recycling program follows regional guidelines set by Marketing."
+  },
+  {
+   "doc_id": "noise_0161",
+   "text": "For Soylent Corp employees, internal transfer process is managed by the Legal team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0162",
+   "text": "The Umbrella handbook states that visitor registration follows regional guidelines set by Finance."
+  },
+  {
+   "doc_id": "noise_0163",
+   "text": "The Cyberdyne handbook states that expense reimbursement follows regional guidelines set by Finance."
+  },
+  {
+   "doc_id": "noise_0164",
+   "text": "The Aperture Labs handbook states that onboarding checklist follows regional guidelines set by Finance."
+  },
+  {
+   "doc_id": "noise_0165",
+   "text": "Wayne Enterprises's Marketing department updated the parking permits procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0166",
+   "text": "Aperture Labs Legal policy: recycling program requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0167",
+   "text": "For Soylent Corp employees, company holiday calendar is managed by the Operations team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0168",
+   "text": "Initech Sales policy: gym membership discount requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0169",
+   "text": "For Initech employees, software licensing is managed by the Operations team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0170",
+   "text": "All Wayne Enterprises contractors should refer to the Sales team for questions about internal transfer process."
+  },
+  {
+   "doc_id": "noise_0171",
+   "text": "Globex Legal policy: internal transfer process requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0172",
+   "text": "The Initech handbook states that performance review cycle follows regional guidelines set by Marketing."
+  },
+  {
+   "doc_id": "noise_0173",
+   "text": "All Hooli contractors should refer to the Operations team for questions about recycling program."
+  },
+  {
+   "doc_id": "noise_0174",
+   "text": "Soylent Corp Operations policy: gym membership discount requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0175",
+   "text": "All Cyberdyne contractors should refer to the Facilities team for questions about badge access."
+  },
+  {
+   "doc_id": "noise_0176",
+   "text": "Aperture Labs's Facilities department updated the vacation scheduling procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0177",
+   "text": "For Umbrella employees, company holiday calendar is managed by the Sales team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0178",
+   "text": "All Cyberdyne contractors should refer to the Operations team for questions about cafeteria menu rotation."
+  },
+  {
+   "doc_id": "noise_0179",
+   "text": "Globex's Sales department updated the company holiday calendar procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0180",
+   "text": "All Wayne Enterprises contractors should refer to the Operations team for questions about internal transfer process."
+  },
+  {
+   "doc_id": "noise_0181",
+   "text": "The Wayne Enterprises handbook states that mailroom procedures follows regional guidelines set by Marketing."
+  },
+  {
+   "doc_id": "noise_0182",
+   "text": "All Cyberdyne contractors should refer to the Facilities team for questions about performance review cycle."
+  },
+  {
+   "doc_id": "noise_0183",
+   "text": "Wayne Enterprises Facilities policy: office supply requests requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0184",
+   "text": "Globex Legal policy: gym membership discount requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0185",
+   "text": "Umbrella Sales policy: internal transfer process requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0186",
+   "text": "Hooli Facilities policy: internal transfer process requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0187",
+   "text": "Aperture Labs Facilities policy: visitor registration requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0188",
+   "text": "The Stark Industries handbook states that company holiday calendar follows regional guidelines set by Sales."
+  },
+  {
+   "doc_id": "noise_0189",
+   "text": "Stark Industries Finance policy: mailroom procedures requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0190",
+   "text": "All Cyberdyne contractors should refer to the Legal team for questions about onboarding checklist."
+  },
+  {
+   "doc_id": "noise_0191",
+   "text": "Initech's Finance department updated the cafeteria menu rotation procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0192",
+   "text": "Cyberdyne Finance policy: parking permits requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0193",
+   "text": "Hooli Operations policy: conference room booking requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0194",
+   "text": "Hooli's Sales department updated the conference room booking procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0195",
+   "text": "All Cyberdyne contractors should refer to the Operations team for questions about performance review cycle."
+  },
+  {
+   "doc_id": "noise_0196",
+   "text": "For Soylent Corp employees, mailroom procedures is managed by the Marketing team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0197",
+   "text": "For Wayne Enterprises employees, conference room booking is managed by the Facilities team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0198",
+   "text": "The Cyberdyne handbook states that mailroom procedures follows regional guidelines set by Finance."
+  },
+  {
+   "doc_id": "noise_0199",
+   "text": "The Wonka Industries handbook states that equipment loan program follows regional guidelines set by Operations."
+  },
+  {
+   "doc_id": "noise_0200",
+   "text": "All Wayne Enterprises contractors should refer to the Operations team for questions about gym membership discount."
+  },
+  {
+   "doc_id": "noise_0201",
+   "text": "For Stark Industries employees, performance review cycle is managed by the Facilities team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0202",
+   "text": "For Stark Industries employees, mailroom procedures is managed by the Legal team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0203",
+   "text": "Globex Facilities policy: vacation scheduling requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0204",
+   "text": "Wayne Enterprises Marketing policy: shift scheduling requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0205",
+   "text": "For Aperture Labs employees, software licensing is managed by the Finance team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0206",
+   "text": "Wonka Industries Marketing policy: badge access requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0207",
+   "text": "The Umbrella handbook states that onboarding checklist follows regional guidelines set by Operations."
+  },
+  {
+   "doc_id": "noise_0208",
+   "text": "For Cyberdyne employees, equipment loan program is managed by the Sales team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0209",
+   "text": "For Hooli employees, company holiday calendar is managed by the Marketing team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0210",
+   "text": "All Initech contractors should refer to the Finance team for questions about overtime approval."
+  },
+  {
+   "doc_id": "noise_0211",
+   "text": "The Stark Industries handbook states that shift scheduling follows regional guidelines set by Sales."
+  },
+  {
+   "doc_id": "noise_0212",
+   "text": "For Soylent Corp employees, equipment loan program is managed by the Legal team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0213",
+   "text": "All Aperture Labs contractors should refer to the Marketing team for questions about office supply requests."
+  },
+  {
+   "doc_id": "noise_0214",
+   "text": "All Umbrella contractors should refer to the Sales team for questions about equipment loan program."
+  },
+  {
+   "doc_id": "noise_0215",
+   "text": "Initech Sales policy: visitor registration requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0216",
+   "text": "All Wonka Industries contractors should refer to the Finance team for questions about shift scheduling."
+  },
+  {
+   "doc_id": "noise_0217",
+   "text": "The Aperture Labs handbook states that overtime approval follows regional guidelines set by Sales."
+  },
+  {
+   "doc_id": "noise_0218",
+   "text": "For Globex employees, office supply requests is managed by the Finance team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0219",
+   "text": "Aperture Labs's Finance department updated the office supply requests procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0220",
+   "text": "For Hooli employees, conference room booking is managed by the Marketing team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0221",
+   "text": "The Hooli handbook states that visitor registration follows regional guidelines set by Facilities."
+  },
+  {
+   "doc_id": "noise_0222",
+   "text": "All Initech contractors should refer to the Marketing team for questions about overtime approval."
+  },
+  {
+   "doc_id": "noise_0223",
+   "text": "Aperture Labs's Facilities department updated the performance review cycle procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0224",
+   "text": "The Wonka Industries handbook states that overtime approval follows regional guidelines set by Marketing."
+  },
+  {
+   "doc_id": "noise_0225",
+   "text": "For Stark Industries employees, mailroom procedures is managed by the Sales team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0226",
+   "text": "Initech Marketing policy: equipment loan program requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0227",
+   "text": "All Hooli contractors should refer to the Facilities team for questions about internal transfer process."
+  },
+  {
+   "doc_id": "noise_0228",
+   "text": "The Soylent Corp handbook states that gym membership discount follows regional guidelines set by Legal."
+  },
+  {
+   "doc_id": "noise_0229",
+   "text": "All Soylent Corp contractors should refer to the Operations team for questions about conference room booking."
+  },
+  {
+   "doc_id": "noise_0230",
+   "text": "Aperture Labs Legal policy: travel policy requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0231",
+   "text": "For Cyberdyne employees, expense reimbursement is managed by the Marketing team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0232",
+   "text": "For Wonka Industries employees, recycling program is managed by the Finance team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0233",
+   "text": "Aperture Labs's Marketing department updated the expense reimbursement procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0234",
+   "text": "The Initech handbook states that recycling program follows regional guidelines set by Operations."
+  },
+  {
+   "doc_id": "noise_0235",
+   "text": "Wonka Industries Finance policy: visitor registration requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0236",
+   "text": "The Wayne Enterprises handbook states that software licensing follows regional guidelines set by Facilities."
+  },
+  {
+   "doc_id": "noise_0237",
+   "text": "Initech Finance policy: conference room booking requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0238",
+   "text": "Soylent Corp's Legal department updated the onboarding checklist procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0239",
+   "text": "Wonka Industries's Marketing department updated the overtime approval procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0240",
+   "text": "For Hooli employees, visitor registration is managed by the Marketing team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0241",
+   "text": "Cyberdyne Sales policy: recycling program requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0242",
+   "text": "The Aperture Labs handbook states that shift scheduling follows regional guidelines set by Finance."
+  },
+  {
+   "doc_id": "noise_0243",
+   "text": "Globex's Sales department updated the badge access procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0244",
+   "text": "All Wonka Industries contractors should refer to the Facilities team for questions about expense reimbursement."
+  },
+  {
+   "doc_id": "noise_0245",
+   "text": "Hooli Facilities policy: expense reimbursement requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0246",
+   "text": "For Soylent Corp employees, conference room booking is managed by the Sales team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0247",
+   "text": "For Umbrella employees, internal transfer process is managed by the Facilities team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0248",
+   "text": "Hooli's Legal department updated the internal transfer process procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0249",
+   "text": "Wonka Industries Marketing policy: performance review cycle requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0250",
+   "text": "The Cyberdyne handbook states that software licensing follows regional guidelines set by Marketing."
+  },
+  {
+   "doc_id": "noise_0251",
+   "text": "Umbrella's Legal department updated the vacation scheduling procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0252",
+   "text": "Globex Operations policy: company holiday calendar requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0253",
+   "text": "For Hooli employees, parking permits is managed by the Finance team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0254",
+   "text": "For Hooli employees, gym membership discount is managed by the Legal team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0255",
+   "text": "All Aperture Labs contractors should refer to the Facilities team for questions about company holiday calendar."
+  },
+  {
+   "doc_id": "noise_0256",
+   "text": "For Wonka Industries employees, overtime approval is managed by the Legal team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0257",
+   "text": "The Wayne Enterprises handbook states that travel policy follows regional guidelines set by Sales."
+  },
+  {
+   "doc_id": "noise_0258",
+   "text": "The Wonka Industries handbook states that company holiday calendar follows regional guidelines set by Operations."
+  },
+  {
+   "doc_id": "noise_0259",
+   "text": "All Cyberdyne contractors should refer to the Sales team for questions about visitor registration."
+  },
+  {
+   "doc_id": "noise_0260",
+   "text": "Initech's Sales department updated the onboarding checklist procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0261",
+   "text": "Globex's Legal department updated the conference room booking procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0262",
+   "text": "Wonka Industries Operations policy: performance review cycle requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0263",
+   "text": "The Stark Industries handbook states that company holiday calendar follows regional guidelines set by Finance."
+  },
+  {
+   "doc_id": "noise_0264",
+   "text": "All Cyberdyne contractors should refer to the Legal team for questions about shift scheduling."
+  },
+  {
+   "doc_id": "noise_0265",
+   "text": "The Umbrella handbook states that travel policy follows regional guidelines set by Sales."
+  },
+  {
+   "doc_id": "noise_0266",
+   "text": "For Umbrella employees, mailroom procedures is managed by the Marketing team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0267",
+   "text": "All Aperture Labs contractors should refer to the Marketing team for questions about mailroom procedures."
+  },
+  {
+   "doc_id": "noise_0268",
+   "text": "For Globex employees, gym membership discount is managed by the Legal team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0269",
+   "text": "For Globex employees, conference room booking is managed by the Legal team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0270",
+   "text": "All Initech contractors should refer to the Marketing team for questions about performance review cycle."
+  },
+  {
+   "doc_id": "noise_0271",
+   "text": "Wonka Industries's Finance department updated the company holiday calendar procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0272",
+   "text": "All Initech contractors should refer to the Facilities team for questions about gym membership discount."
+  },
+  {
+   "doc_id": "noise_0273",
+   "text": "For Wonka Industries employees, expense reimbursement is managed by the Marketing team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0274",
+   "text": "Soylent Corp's Legal department updated the badge access procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0275",
+   "text": "Stark Industries's Finance department updated the recycling program procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0276",
+   "text": "The Wonka Industries handbook states that travel policy follows regional guidelines set by Sales."
+  },
+  {
+   "doc_id": "noise_0277",
+   "text": "Hooli Marketing policy: internal transfer process requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0278",
+   "text": "Wonka Industries Marketing policy: overtime approval requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0279",
+   "text": "Hooli Finance policy: conference room booking requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0280",
+   "text": "Soylent Corp Facilities policy: overtime approval requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0281",
+   "text": "Cyberdyne's Finance department updated the internal transfer process procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0282",
+   "text": "Stark Industries Marketing policy: gym membership discount requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0283",
+   "text": "All Cyberdyne contractors should refer to the Finance team for questions about parking permits."
+  },
+  {
+   "doc_id": "noise_0284",
+   "text": "All Umbrella contractors should refer to the Marketing team for questions about internal transfer process."
+  },
+  {
+   "doc_id": "noise_0285",
+   "text": "All Wayne Enterprises contractors should refer to the Marketing team for questions about internal transfer process."
+  },
+  {
+   "doc_id": "noise_0286",
+   "text": "For Initech employees, parking permits is managed by the Marketing team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0287",
+   "text": "The Soylent Corp handbook states that software licensing follows regional guidelines set by Facilities."
+  },
+  {
+   "doc_id": "noise_0288",
+   "text": "Wayne Enterprises's Marketing department updated the gym membership discount procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0289",
+   "text": "Hooli Sales policy: internal transfer process requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0290",
+   "text": "Initech Legal policy: cafeteria menu rotation requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0291",
+   "text": "For Umbrella employees, travel policy is managed by the Facilities team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0292",
+   "text": "Stark Industries's Sales department updated the vacation scheduling procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0293",
+   "text": "Aperture Labs Facilities policy: badge access requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0294",
+   "text": "Stark Industries Finance policy: travel policy requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0295",
+   "text": "The Soylent Corp handbook states that badge access follows regional guidelines set by Sales."
+  },
+  {
+   "doc_id": "noise_0296",
+   "text": "For Soylent Corp employees, conference room booking is managed by the Operations team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0297",
+   "text": "Umbrella's Facilities department updated the internal transfer process procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0298",
+   "text": "Hooli Sales policy: cafeteria menu rotation requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0299",
+   "text": "For Soylent Corp employees, visitor registration is managed by the Operations team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0300",
+   "text": "The Aperture Labs handbook states that expense reimbursement follows regional guidelines set by Operations."
+  },
+  {
+   "doc_id": "noise_0301",
+   "text": "The Hooli handbook states that visitor registration follows regional guidelines set by Legal."
+  },
+  {
+   "doc_id": "noise_0302",
+   "text": "Cyberdyne's Finance department updated the recycling program procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0303",
+   "text": "The Stark Industries handbook states that visitor registration follows regional guidelines set by Operations."
+  },
+  {
+   "doc_id": "noise_0304",
+   "text": "The Initech handbook states that travel policy follows regional guidelines set by Operations."
+  },
+  {
+   "doc_id": "noise_0305",
+   "text": "For Wonka Industries employees, recycling program is managed by the Marketing team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0306",
+   "text": "All Hooli contractors should refer to the Operations team for questions about mailroom procedures."
+  },
+  {
+   "doc_id": "noise_0307",
+   "text": "All Umbrella contractors should refer to the Operations team for questions about parking permits."
+  },
+  {
+   "doc_id": "noise_0308",
+   "text": "For Stark Industries employees, expense reimbursement is managed by the Operations team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0309",
+   "text": "Initech's Legal department updated the onboarding checklist procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0310",
+   "text": "The Aperture Labs handbook states that visitor registration follows regional guidelines set by Sales."
+  },
+  {
+   "doc_id": "noise_0311",
+   "text": "Initech's Marketing department updated the performance review cycle procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0312",
+   "text": "For Initech employees, conference room booking is managed by the Sales team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0313",
+   "text": "All Aperture Labs contractors should refer to the Operations team for questions about recycling program."
+  },
+  {
+   "doc_id": "noise_0314",
+   "text": "For Initech employees, performance review cycle is managed by the Operations team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0315",
+   "text": "Hooli Operations policy: conference room booking requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0316",
+   "text": "For Globex employees, equipment loan program is managed by the Marketing team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0317",
+   "text": "For Aperture Labs employees, travel policy is managed by the Marketing team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0318",
+   "text": "Aperture Labs's Operations department updated the badge access procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0319",
+   "text": "For Globex employees, travel policy is managed by the Sales team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0320",
+   "text": "All Wayne Enterprises contractors should refer to the Facilities team for questions about internal transfer process."
+  },
+  {
+   "doc_id": "noise_0321",
+   "text": "For Aperture Labs employees, expense reimbursement is managed by the Facilities team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0322",
+   "text": "Stark Industries Sales policy: overtime approval requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0323",
+   "text": "Umbrella Operations policy: internal transfer process requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0324",
+   "text": "The Aperture Labs handbook states that travel policy follows regional guidelines set by Sales."
+  },
+  {
+   "doc_id": "noise_0325",
+   "text": "For Wonka Industries employees, performance review cycle is managed by the Legal team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0326",
+   "text": "Aperture Labs Marketing policy: vacation scheduling requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0327",
+   "text": "All Umbrella contractors should refer to the Sales team for questions about company holiday calendar."
+  },
+  {
+   "doc_id": "noise_0328",
+   "text": "Initech's Sales department updated the equipment loan program procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0329",
+   "text": "Aperture Labs's Facilities department updated the gym membership discount procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0330",
+   "text": "Wayne Enterprises's Sales department updated the overtime approval procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0331",
+   "text": "Soylent Corp Finance policy: gym membership discount requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0332",
+   "text": "All Wonka Industries contractors should refer to the Marketing team for questions about mailroom procedures."
+  },
+  {
+   "doc_id": "noise_0333",
+   "text": "The Soylent Corp handbook states that expense reimbursement follows regional guidelines set by Sales."
+  },
+  {
+   "doc_id": "noise_0334",
+   "text": "Globex's Marketing department updated the cafeteria menu rotation procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0335",
+   "text": "The Soylent Corp handbook states that visitor registration follows regional guidelines set by Operations."
+  },
+  {
+   "doc_id": "noise_0336",
+   "text": "Aperture Labs Finance policy: onboarding checklist requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0337",
+   "text": "Cyberdyne's Legal department updated the mailroom procedures procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0338",
+   "text": "All Globex contractors should refer to the Sales team for questions about software licensing."
+  },
+  {
+   "doc_id": "noise_0339",
+   "text": "Stark Industries's Operations department updated the office supply requests procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0340",
+   "text": "All Stark Industries contractors should refer to the Finance team for questions about equipment loan program."
+  },
+  {
+   "doc_id": "noise_0341",
+   "text": "For Soylent Corp employees, travel policy is managed by the Operations team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0342",
+   "text": "Soylent Corp Operations policy: software licensing requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0343",
+   "text": "Initech Operations policy: conference room booking requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0344",
+   "text": "Wonka Industries Operations policy: overtime approval requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0345",
+   "text": "Wayne Enterprises Legal policy: office supply requests requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0346",
+   "text": "Hooli's Legal department updated the badge access procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0347",
+   "text": "For Cyberdyne employees, internal transfer process is managed by the Operations team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0348",
+   "text": "For Hooli employees, gym membership discount is managed by the Facilities team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0349",
+   "text": "Globex's Marketing department updated the expense reimbursement procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0350",
+   "text": "Hooli's Marketing department updated the visitor registration procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0351",
+   "text": "For Umbrella employees, parking permits is managed by the Sales team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0352",
+   "text": "For Wayne Enterprises employees, vacation scheduling is managed by the Facilities team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0353",
+   "text": "Hooli Marketing policy: company holiday calendar requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0354",
+   "text": "For Umbrella employees, recycling program is managed by the Facilities team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0355",
+   "text": "For Wonka Industries employees, onboarding checklist is managed by the Facilities team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0356",
+   "text": "The Globex handbook states that software licensing follows regional guidelines set by Facilities."
+  },
+  {
+   "doc_id": "noise_0357",
+   "text": "For Hooli employees, shift scheduling is managed by the Marketing team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0358",
+   "text": "Hooli's Facilities department updated the overtime approval procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0359",
+   "text": "The Initech handbook states that onboarding checklist follows regional guidelines set by Legal."
+  },
+  {
+   "doc_id": "noise_0360",
+   "text": "The Initech handbook states that parking permits follows regional guidelines set by Facilities."
+  },
+  {
+   "doc_id": "noise_0361",
+   "text": "All Umbrella contractors should refer to the Facilities team for questions about onboarding checklist."
+  },
+  {
+   "doc_id": "noise_0362",
+   "text": "All Wayne Enterprises contractors should refer to the Marketing team for questions about equipment loan program."
+  },
+  {
+   "doc_id": "noise_0363",
+   "text": "For Initech employees, mailroom procedures is managed by the Operations team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0364",
+   "text": "The Wayne Enterprises handbook states that onboarding checklist follows regional guidelines set by Legal."
+  },
+  {
+   "doc_id": "noise_0365",
+   "text": "Umbrella's Facilities department updated the badge access procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0366",
+   "text": "Initech Sales policy: mailroom procedures requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0367",
+   "text": "All Wonka Industries contractors should refer to the Finance team for questions about expense reimbursement."
+  },
+  {
+   "doc_id": "noise_0368",
+   "text": "The Aperture Labs handbook states that recycling program follows regional guidelines set by Marketing."
+  },
+  {
+   "doc_id": "noise_0369",
+   "text": "For Soylent Corp employees, badge access is managed by the Operations team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0370",
+   "text": "For Wayne Enterprises employees, onboarding checklist is managed by the Legal team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0371",
+   "text": "Wayne Enterprises Facilities policy: recycling program requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0372",
+   "text": "All Umbrella contractors should refer to the Legal team for questions about vacation scheduling."
+  },
+  {
+   "doc_id": "noise_0373",
+   "text": "Cyberdyne Operations policy: internal transfer process requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0374",
+   "text": "Cyberdyne Finance policy: travel policy requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0375",
+   "text": "The Wonka Industries handbook states that equipment loan program follows regional guidelines set by Facilities."
+  },
+  {
+   "doc_id": "noise_0376",
+   "text": "The Cyberdyne handbook states that mailroom procedures follows regional guidelines set by Finance."
+  },
+  {
+   "doc_id": "noise_0377",
+   "text": "All Wonka Industries contractors should refer to the Facilities team for questions about mailroom procedures."
+  },
+  {
+   "doc_id": "noise_0378",
+   "text": "Umbrella Operations policy: travel policy requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0379",
+   "text": "Aperture Labs's Sales department updated the onboarding checklist procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0380",
+   "text": "The Wonka Industries handbook states that onboarding checklist follows regional guidelines set by Marketing."
+  },
+  {
+   "doc_id": "noise_0381",
+   "text": "All Cyberdyne contractors should refer to the Operations team for questions about onboarding checklist."
+  },
+  {
+   "doc_id": "noise_0382",
+   "text": "Aperture Labs Sales policy: performance review cycle requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0383",
+   "text": "All Stark Industries contractors should refer to the Operations team for questions about vacation scheduling."
+  },
+  {
+   "doc_id": "noise_0384",
+   "text": "For Cyberdyne employees, visitor registration is managed by the Legal team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0385",
+   "text": "Aperture Labs's Finance department updated the cafeteria menu rotation procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0386",
+   "text": "The Soylent Corp handbook states that overtime approval follows regional guidelines set by Operations."
+  },
+  {
+   "doc_id": "noise_0387",
+   "text": "For Globex employees, software licensing is managed by the Finance team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0388",
+   "text": "All Aperture Labs contractors should refer to the Facilities team for questions about recycling program."
+  },
+  {
+   "doc_id": "noise_0389",
+   "text": "Stark Industries Operations policy: conference room booking requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0390",
+   "text": "The Wayne Enterprises handbook states that vacation scheduling follows regional guidelines set by Sales."
+  },
+  {
+   "doc_id": "noise_0391",
+   "text": "The Aperture Labs handbook states that mailroom procedures follows regional guidelines set by Facilities."
+  },
+  {
+   "doc_id": "noise_0392",
+   "text": "All Aperture Labs contractors should refer to the Sales team for questions about badge access."
+  },
+  {
+   "doc_id": "noise_0393",
+   "text": "For Umbrella employees, performance review cycle is managed by the Sales team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0394",
+   "text": "Umbrella's Sales department updated the cafeteria menu rotation procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0395",
+   "text": "Globex's Marketing department updated the shift scheduling procedure last year; contact your manager for details."
+  },
+  {
+   "doc_id": "noise_0396",
+   "text": "Hooli Facilities policy: parking permits requests must be submitted through the internal portal at least 5 business days in advance."
+  },
+  {
+   "doc_id": "noise_0397",
+   "text": "For Umbrella employees, cafeteria menu rotation is managed by the Sales team and reviewed on a quarterly basis."
+  },
+  {
+   "doc_id": "noise_0398",
+   "text": "All Umbrella contractors should refer to the Facilities team for questions about overtime approval."
+  },
+  {
+   "doc_id": "noise_0399",
+   "text": "Globex's Finance department updated the onboarding checklist procedure last year; contact your manager for details."
+  }
+ ],
+ "golden_dataset": [
+  {
+   "id": "q01",
+   "question": "How do I reset my Acme account password?",
+   "ground_truth": "Go to Settings > Security > Reset Password and use the emailed link within 30 minutes.",
+   "is_answerable": true,
+   "relevant_doc_ids": [
+    "kb_001"
+   ]
+  },
+  {
+   "id": "q02",
+   "question": "I'm getting VPN error 691, what does that mean?",
+   "ground_truth": "It's an authentication failure; verify your username/password and that your account isn't locked.",
+   "is_answerable": true,
+   "relevant_doc_ids": [
+    "kb_002"
+   ]
+  },
+  {
+   "id": "q03",
+   "question": "Can I expense a client dinner and how much is covered?",
+   "ground_truth": "Yes, up to $75 per person with an itemized receipt and the client's name and company noted.",
+   "is_answerable": true,
+   "relevant_doc_ids": [
+    "kb_003"
+   ]
+  },
+  {
+   "id": "q04",
+   "question": "How many PTO days do full-time employees get per year?",
+   "ground_truth": "Unlimited PTO as of the 2024 policy, subject to manager approval and a 10-day minimum taken per year (this supersedes the old 2019 15-day accrual policy).",
+   "is_answerable": true,
+   "relevant_doc_ids": [
+    "kb_005"
+   ]
+  },
+  {
+   "id": "q05",
+   "question": "Does the remote work stipend apply to interns?",
+   "ground_truth": "No, the $50/month stipend does not apply to Contractor or Intern employment tracks.",
+   "is_answerable": true,
+   "relevant_doc_ids": [
+    "kb_006"
+   ]
+  },
+  {
+   "id": "q06",
+   "question": "When does benefits enrollment open?",
+   "ground_truth": "The first two weeks of November each year, with changes effective January 1st.",
+   "is_answerable": true,
+   "relevant_doc_ids": [
+    "kb_007"
+   ]
+  },
+  {
+   "id": "q07",
+   "question": "My office printer says it's offline, what should I check?",
+   "ground_truth": "Check it's connected to the Acme-Print network and restart the print spooler service.",
+   "is_answerable": true,
+   "relevant_doc_ids": [
+    "kb_008"
+   ]
+  },
+  {
+   "id": "q08",
+   "question": "How do guests connect to wifi in the office?",
+   "ground_truth": "Guests use the Acme-Guest network with the daily password posted at the front desk; no company account needed.",
+   "is_answerable": true,
+   "relevant_doc_ids": [
+    "kb_009"
+   ]
+  },
+  {
+   "id": "q09",
+   "question": "What expense code do I use for a software subscription under $50 a month?",
+   "ground_truth": "Use expense code EXP-114, which doesn't require manager pre-approval for subscriptions under $50/month.",
+   "is_answerable": true,
+   "relevant_doc_ids": [
+    "kb_010"
+   ]
+  },
+  {
+   "id": "q10",
+   "question": "How quickly do I need to report a lost company device?",
+   "ground_truth": "Within 1 hour of discovery, to security@acme.example.",
+   "is_answerable": true,
+   "relevant_doc_ids": [
+    "kb_011"
+   ]
+  },
+  {
+   "id": "q11",
+   "question": "How long is customer data retained after account closure?",
+   "ground_truth": "7 years after account closure, then it is permanently deleted.",
+   "is_answerable": true,
+   "relevant_doc_ids": [
+    "kb_012"
+   ]
+  },
+  {
+   "id": "q12",
+   "question": "How much parental leave do primary caregivers get?",
+   "ground_truth": "16 weeks fully paid for the primary caregiver, 6 weeks for the secondary caregiver.",
+   "is_answerable": true,
+   "relevant_doc_ids": [
+    "kb_013"
+   ]
+  },
+  {
+   "id": "q13",
+   "question": "What's the referral bonus for a senior engineering hire?",
+   "ground_truth": "$4,000, paid out after the new hire completes 90 days.",
+   "is_answerable": true,
+   "relevant_doc_ids": [
+    "kb_014"
+   ]
+  },
+  {
+   "id": "q14",
+   "question": "How often can I get my company laptop replaced?",
+   "ground_truth": "Every 3 years, or sooner if it fails and IT can't repair it within 5 business days.",
+   "is_answerable": true,
+   "relevant_doc_ids": [
+    "kb_015"
+   ]
+  },
+  {
+   "id": "q15",
+   "question": "What's the CEO's personal cell phone number?",
+   "ground_truth": "This information is not available in the knowledge base; the assistant should decline to answer.",
+   "is_answerable": false,
+   "relevant_doc_ids": []
+  },
+  {
+   "id": "q16",
+   "question": "What will Acme's stock price be next quarter?",
+   "ground_truth": "This information is not available in the knowledge base; the assistant should decline to answer.",
+   "is_answerable": false,
+   "relevant_doc_ids": []
+  },
+  {
+   "id": "q17",
+   "question": "Can I get a company car as part of my benefits package?",
+   "ground_truth": "This information is not available in the knowledge base; the assistant should decline to answer.",
+   "is_answerable": false,
+   "relevant_doc_ids": []
+  }
+ ],
+ "acme_doc_ids": [
+  "kb_001",
+  "kb_002",
+  "kb_003",
+  "kb_004",
+  "kb_005",
+  "kb_006",
+  "kb_007",
+  "kb_008",
+  "kb_009",
+  "kb_010",
+  "kb_011",
+  "kb_012",
+  "kb_013",
+  "kb_014",
+  "kb_015",
+  "kb_016",
+  "kb_017",
+  "kb_018"
+ ]
+}

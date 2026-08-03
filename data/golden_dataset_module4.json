@@ -1,0 +1,225 @@
+{
+  "knowledge_base": [
+    {
+      "doc_id": "kb_001",
+      "text": "To reset your Acme account password, go to Settings > Security > Reset Password and follow the emailed link. The link expires after 30 minutes."
+    },
+    {
+      "doc_id": "kb_002",
+      "text": "VPN error 691 indicates an authentication failure. Confirm your username and password are correct and that your account is not locked before contacting IT."
+    },
+    {
+      "doc_id": "kb_003",
+      "text": "Employees may expense client dinners up to $75 per person with an itemized receipt and the client's name and company noted on the expense report."
+    },
+    {
+      "doc_id": "kb_004",
+      "text": "2019 PTO Policy: Full-time employees accrue 15 days of paid time off per year, credited monthly."
+    },
+    {
+      "doc_id": "kb_005",
+      "text": "2024 PTO Policy Addendum (supersedes the 2019 policy): Full-time employees now receive unlimited PTO, subject to manager approval and a minimum of 10 days taken per year."
+    },
+    {
+      "doc_id": "kb_006",
+      "text": "The remote work stipend of $50/month for home internet does not apply to employees on the Contractor or Intern employment tracks."
+    },
+    {
+      "doc_id": "kb_007",
+      "text": "Benefits enrollment opens each year in the first two weeks of November. Changes take effect on January 1st of the following year."
+    },
+    {
+      "doc_id": "kb_008",
+      "text": "If your office printer shows an offline error, check that it is connected to the 'Acme-Print' network and restart the print spooler service."
+    },
+    {
+      "doc_id": "kb_009",
+      "text": "Guests can connect to the 'Acme-Guest' wifi network using the daily password posted at the front desk; it does not require a company account."
+    },
+    {
+      "doc_id": "kb_010",
+      "text": "Expense report code EXP-114 is used for software subscription reimbursements under $50/month that do not require manager pre-approval."
+    },
+    {
+      "doc_id": "kb_011",
+      "text": "Security incidents, including suspected phishing emails or lost devices, must be reported to security@acme.example within 1 hour of discovery."
+    },
+    {
+      "doc_id": "kb_012",
+      "text": "Customer data is retained for 7 years after account closure to meet financial audit requirements, then permanently deleted."
+    },
+    {
+      "doc_id": "kb_013",
+      "text": "Parental leave provides 16 weeks of fully paid leave for the primary caregiver and 6 weeks for the secondary caregiver, available to all full-time employees."
+    },
+    {
+      "doc_id": "kb_014",
+      "text": "Employee referral bonuses are $2,000 for standard roles and $4,000 for senior engineering roles, paid out after the new hire completes 90 days."
+    },
+    {
+      "doc_id": "kb_015",
+      "text": "Company laptops are eligible for replacement every 3 years, or sooner if hardware fails and cannot be repaired by IT within 5 business days."
+    },
+    {
+      "doc_id": "kb_016",
+      "text": "Home office equipment reimbursement covers up to $300 one time for a monitor, chair, or keyboard, submitted through expense code EXP-220."
+    },
+    {
+      "doc_id": "kb_017",
+      "text": "Slow application performance is often caused by too many browser tabs or an outdated client version; check for updates under Help > About."
+    },
+    {
+      "doc_id": "kb_018",
+      "text": "The office building requires badge access after 7pm on weekdays and at all times on weekends; lost badges should be reported to facilities immediately."
+    }
+  ],
+  "golden_dataset": [
+    {
+      "id": "q01",
+      "question": "How do I reset my Acme account password?",
+      "ground_truth": "Go to Settings > Security > Reset Password and use the emailed link within 30 minutes.",
+      "is_answerable": true,
+      "relevant_doc_ids": [
+        "kb_001"
+      ]
+    },
+    {
+      "id": "q02",
+      "question": "I'm getting VPN error 691, what does that mean?",
+      "ground_truth": "It's an authentication failure; verify your username/password and that your account isn't locked.",
+      "is_answerable": true,
+      "relevant_doc_ids": [
+        "kb_002"
+      ]
+    },
+    {
+      "id": "q03",
+      "question": "Can I expense a client dinner and how much is covered?",
+      "ground_truth": "Yes, up to $75 per person with an itemized receipt and the client's name and company noted.",
+      "is_answerable": true,
+      "relevant_doc_ids": [
+        "kb_003"
+      ]
+    },
+    {
+      "id": "q04",
+      "question": "How many PTO days do full-time employees get per year?",
+      "ground_truth": "Unlimited PTO as of the 2024 policy, subject to manager approval and a 10-day minimum taken per year (this supersedes the old 2019 15-day accrual policy).",
+      "is_answerable": true,
+      "relevant_doc_ids": [
+        "kb_005"
+      ]
+    },
+    {
+      "id": "q05",
+      "question": "Does the remote work stipend apply to interns?",
+      "ground_truth": "No, the $50/month stipend does not apply to Contractor or Intern employment tracks.",
+      "is_answerable": true,
+      "relevant_doc_ids": [
+        "kb_006"
+      ]
+    },
+    {
+      "id": "q06",
+      "question": "When does benefits enrollment open?",
+      "ground_truth": "The first two weeks of November each year, with changes effective January 1st.",
+      "is_answerable": true,
+      "relevant_doc_ids": [
+        "kb_007"
+      ]
+    },
+    {
+      "id": "q07",
+      "question": "My office printer says it's offline, what should I check?",
+      "ground_truth": "Check it's connected to the Acme-Print network and restart the print spooler service.",
+      "is_answerable": true,
+      "relevant_doc_ids": [
+        "kb_008"
+      ]
+    },
+    {
+      "id": "q08",
+      "question": "How do guests connect to wifi in the office?",
+      "ground_truth": "Guests use the Acme-Guest network with the daily password posted at the front desk; no company account needed.",
+      "is_answerable": true,
+      "relevant_doc_ids": [
+        "kb_009"
+      ]
+    },
+    {
+      "id": "q09",
+      "question": "What expense code do I use for a software subscription under $50 a month?",
+      "ground_truth": "Use expense code EXP-114, which doesn't require manager pre-approval for subscriptions under $50/month.",
+      "is_answerable": true,
+      "relevant_doc_ids": [
+        "kb_010"
+      ]
+    },
+    {
+      "id": "q10",
+      "question": "How quickly do I need to report a lost company device?",
+      "ground_truth": "Within 1 hour of discovery, to security@acme.example.",
+      "is_answerable": true,
+      "relevant_doc_ids": [
+        "kb_011"
+      ]
+    },
+    {
+      "id": "q11",
+      "question": "How long is customer data retained after account closure?",
+      "ground_truth": "7 years after account closure, then it is permanently deleted.",
+      "is_answerable": true,
+      "relevant_doc_ids": [
+        "kb_012"
+      ]
+    },
+    {
+      "id": "q12",
+      "question": "How much parental leave do primary caregivers get?",
+      "ground_truth": "16 weeks fully paid for the primary caregiver, 6 weeks for the secondary caregiver.",
+      "is_answerable": true,
+      "relevant_doc_ids": [
+        "kb_013"
+      ]
+    },
+    {
+      "id": "q13",
+      "question": "What's the referral bonus for a senior engineering hire?",
+      "ground_truth": "$4,000, paid out after the new hire completes 90 days.",
+      "is_answerable": true,
+      "relevant_doc_ids": [
+        "kb_014"
+      ]
+    },
+    {
+      "id": "q14",
+      "question": "How often can I get my company laptop replaced?",
+      "ground_truth": "Every 3 years, or sooner if it fails and IT can't repair it within 5 business days.",
+      "is_answerable": true,
+      "relevant_doc_ids": [
+        "kb_015"
+      ]
+    },
+    {
+      "id": "q15",
+      "question": "What's the CEO's personal cell phone number?",
+      "ground_truth": "This information is not available in the knowledge base; the assistant should decline to answer.",
+      "is_answerable": false,
+      "relevant_doc_ids": []
+    },
+    {
+      "id": "q16",
+      "question": "What will Acme's stock price be next quarter?",
+      "ground_truth": "This information is not available in the knowledge base; the assistant should decline to answer.",
+      "is_answerable": false,
+      "relevant_doc_ids": []
+    },
+    {
+      "id": "q17",
+      "question": "Can I get a company car as part of my benefits package?",
+      "ground_truth": "This information is not available in the knowledge base; the assistant should decline to answer.",
+      "is_answerable": false,
+      "relevant_doc_ids": []
+    }
+  ]
+}
