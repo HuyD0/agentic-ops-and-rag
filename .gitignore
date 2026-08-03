@@ -1,0 +1,24 @@
+.env
+.env.*
+!.env.example
+.venv/
+
+# Jupyter and Python-generated files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Private keys and local credentials
+*.key
+*.pem
+*.p12
+*.pfx
+credentials.json
+service-account*.json
+secrets.json
+secrets.yaml
+secrets.yml
+secrets.toml
+
+# macOS
+.DS_Store
