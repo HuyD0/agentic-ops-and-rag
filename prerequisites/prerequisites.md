@@ -56,7 +56,7 @@ You have two supported paths — pick whichever is more convenient. Neither requ
 4. Select the notebook for the current module (e.g., `notebooks/01_architecting_pipelines_lab.ipynb`)
 5. Colab opens a live, editable copy in your browser — no local download step at all
 
-This is the fastest path and is what we'll use during live sessions. Each notebook's own setup cell handles installing `faiss-cpu`/`numpy`/`matplotlib`, and the Module 4/5 notebooks that load shared data files (`golden_dataset_module4.json`, `capstone_corpus.json`) include a built-in fallback that embeds the data directly in the notebook if it can't find the file on disk — so this path works even without a full repository clone.
+This is the fastest path and is what we'll use during live sessions. Each notebook's own setup cell handles its dependencies, and the Module 4-7 notebooks that load shared data files (`golden_dataset_module4.json`, `capstone_corpus.json`, `large_document_benchmark.json`) include a built-in fallback that embeds the data directly in the notebook if it can't find the file on disk — so this path works even without a full repository clone.
 
 ### Path B — Clone the Repository, Then Upload
 
@@ -75,7 +75,7 @@ Then, inside a Colab notebook, either:
 %cd agentic-ops-and-rag/notebooks
 ```
 
-Cloning inside the Colab runtime is often the more convenient option for the Module 4 and Module 5 notebooks specifically, since it gives them direct access to the real `/data` files via the relative path they already check for first, rather than falling back to the embedded copy.
+Cloning inside the Colab runtime is often the more convenient option for Modules 4-7, since it gives them direct access to the real `/data` files via the relative path they already check for first, rather than falling back to the embedded copy.
 
 > **Note:** Colab runtimes are temporary. Anything cloned or uploaded into a runtime disappears when that runtime disconnects or recycles (see below) — re-run your clone/upload step each time you start a fresh session, or save your work to Google Drive.
 

@@ -50,6 +50,14 @@ In this training, we’ll cover:
    - Small-group coding challenge building an end-to-end RAG system
    - Benchmark across multiple retrieval configurations
    - Discuss tradeoffs, scalability, and deployment pathways
+6. Large-Document Hierarchical RAG
+   - Index page/section-aware evidence without loading the full document per query
+   - Route lookup, numeric, global, cross-reference, and amendment questions
+   - Retrieve small blocks, expand selected parents/references, and pack to a token budget
+7. Evidence-First Evals & Experiments
+   - Diagnose retrieval, packing, answer, citation, numeric, and abstention failures separately
+   - Run controlled ablations, stress tests, paired uncertainty estimates, and release gates
+   - Slice results by financial/legal task type and evidence position
 
 ---
 
@@ -95,12 +103,28 @@ Every embedding, reranker, and "LLM judge" used in this course is a small, trans
 | 3   | **Retrieval & Reranking Techniques**                             | [Notebook](notebooks/03_retrieval_reranking_lab.ipynb)           | [Solution](solutions/03_retrieval_reranking_solution.ipynb)           | 40 minutes |
 | 4   | **Guardrails, Observability & Evaluation**                       | [Notebook](notebooks/04_guardrails_observability_eval_lab.ipynb) | [Solution](solutions/04_guardrails_observability_eval_solution.ipynb) | 50 minutes |
 | 5   | **Putting It Together: Build & Benchmark an Advanced RAG Stack** | [Lab](notebooks/05_capstone_lab.ipynb)                           | [Solution](solutions/05_capstone_solution.ipynb)                      | 50 minutes |
+| 6   | **Large-Document Hierarchical RAG**                             | [Lab](notebooks/06_large_document_hierarchical_rag_lab.ipynb)    | [Solution](solutions/06_large_document_hierarchical_rag_solution.ipynb) | 70-90 minutes |
+| 7   | **Large-Document RAG Evals & Experiments**                       | [Lab](notebooks/07_large_document_rag_evals_lab.ipynb)           | [Solution](solutions/07_large_document_rag_evals_solution.ipynb)      | 75-100 minutes |
 
 ---
 
 ## Capstone Lab
 
 - [Capstone Project: Build & Benchmark an Advanced RAG Stack](notebooks/05_capstone_lab.ipynb)
+
+---
+
+## Advanced Large-Document Track
+
+Modules 6 and 7 are a self-contained advanced track for financial filings, contracts, and
+other documents that exceed a model's practical context window. The core labs remain fully
+offline and deterministic, using a fictional 90-block annual-report/MSA benchmark with page,
+section, version, table, footnote, amendment, and cross-reference provenance.
+
+- [Research and experiment design](docs/large-document-rag-research.md)
+- [Synthetic benchmark](data/large_document_benchmark.json)
+- [Hierarchical retrieval lab](notebooks/06_large_document_hierarchical_rag_lab.ipynb)
+- [Evidence-first evals lab](notebooks/07_large_document_rag_evals_lab.ipynb)
 
 ---
 
